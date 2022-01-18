@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Mochiy+Pop+P+One&display=swap');
+
+body{
+    background-color: lightyellow;
+    text-align: center;
+    font-family: 'Bahnschrift' ,SemiBold ;
+}
+a{
+    text-decoration: lightgreen;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+    color: lightgreen;
+
+}
+label{
+    color: lightgreen;
+    font-size: 35px;
+    font-weight: 200;
+}
+
+h2{
+    font-size: 40px;
+    color: lightgreen;
+}
+
+div{
+    font-size: 30px;
+    color: rgb(241, 65, 91);
+}
+
+p{
+    font-size: 20px;
+    color: lightskyblue;
+}
+
+marquee{
+    font-size: 20px;
+    color: darkred;
+}
